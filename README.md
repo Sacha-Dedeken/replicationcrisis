@@ -29,7 +29,7 @@
     3. p-value versus e-value
         * Simulated dataset
         * Real dataset
-        * Is e-value resistant to data dredging from [Simmons et al. 2019] ?
+        * Is e-value resistant to data dredging from ([Simmons et al. 2011](https://journals.sagepub.com/doi/full/10.1177/0956797611417632)) ?
 4. **Conclusion**
 
 ### Various useful links to understand the problem
