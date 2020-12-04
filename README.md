@@ -36,3 +36,5 @@
 * ["Moving to a World Beyond p < 0.05"](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913)
 * ["Repenser la robustesse et la fiabilité en recherche : les chercheurs face à la crise de la reproductibilité"](https://www.ouvrirlascience.fr/wp-content/uploads/2019/07/20190625_CR_JE-Urfist-reproductibilite.pdf)
 * ["Doing bayesian data analysis : a tutorial with R and BUGS by John K. Kruschke"](https://ssrc.indiana.edu/doc/wimdocs/2011-01-14_kruschke_bayesian_slides.pdf)
+* [Science4All, vulgarisation autour du bayésianisme et des problèmes de la p-value](https://www.youtube.com/playlist?list=PLtzmb84AoqRQkc4f38dueiPf8YUegsg8n)
+* [Safe Testing (Grunwald video)](https://www.youtube.com/watch?v=xzM_Ggz1Jpo)
