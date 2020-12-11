@@ -38,3 +38,4 @@
 * ["Doing bayesian data analysis : a tutorial with R and BUGS by John K. Kruschke"](https://ssrc.indiana.edu/doc/wimdocs/2011-01-14_kruschke_bayesian_slides.pdf)
 * [Science4All, vulgarisation autour du bayésianisme et des problèmes de la p-value](https://www.youtube.com/playlist?list=PLtzmb84AoqRQkc4f38dueiPf8YUegsg8n)
 * [Safe Testing (Grunwald video)](https://www.youtube.com/watch?v=xzM_Ggz1Jpo)
+* [Power failure: why small sample size undermines the reliability of neuroscience](https://www.nature.com/articles/nrn3475)
