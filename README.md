@@ -23,10 +23,13 @@
     1. Other proposals
         * Lowering the significance level, pre-registration, tools to detect p-hacking
         * Critical thinking in statistic courses, abandoning the use of "statistically significant"
-    2. E-value
+    2. Bayesian Testing
+        * Presentation of the framework (by Bayes factor or HDI)
+        * Theoretical and practical benefits, possibility to do optional stopping
+    3. E-value
         * Presentation of the notion
-        * Theorical and practical benefits, possibility to do optional stopping
-    3. p-value versus e-value
+        * Theoretical and practical benefits, possibility to do optional stopping
+    3. p-value versus e-value versus Bayes factor
         * Simulated dataset
         * Real dataset
         * Is e-value resistant to data dredging from ([Simmons et al. 2011](https://journals.sagepub.com/doi/full/10.1177/0956797611417632)) ?
